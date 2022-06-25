@@ -2,7 +2,7 @@ import React from 'react'
 
 const Main = () => (
   <main>
-    <h1> react avançado</h1>
+    <h1> React Avançado</h1>
   </main>
 )
 
