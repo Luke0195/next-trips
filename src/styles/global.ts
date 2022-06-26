@@ -10,7 +10,7 @@ export default createGlobalStyle`
   font-family: 'Lato', arial ;
 }
 
-html, body, #root{
+html, body, #__next{
   height:100%;
 }
 
